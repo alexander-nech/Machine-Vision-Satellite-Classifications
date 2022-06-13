@@ -10,6 +10,8 @@ Keeping this context in mind, this project attempts to leverage both satellite i
 alternative solution to keeping track of marine vessels. With the world being struck by COVID and an increased demand that is putting strenious pressure on supply chains,
 novel ideas such as this one can potentially make a difference.
 
+Note that the objective of this project is to accurately classify marine vessels based on provided satellite images.
+
 ## Methodology
 
 Utilizing various object detection architectures, a trained model was created by leveraging **TensorFlow library**, **TensforFlow ModelZoo**, and **Sentinel 1 datasets**. Trained the models based on local annotated satellite images.
