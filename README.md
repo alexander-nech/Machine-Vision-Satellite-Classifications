@@ -12,3 +12,13 @@ novel ideas such as this one can potentially make a difference.
 
 ## Methodology
 
+Utilizing various object detection architectures, a trained model was created by leveraging **TensorFlow library**, **TensforFlow ModelZoo**, and **Sentinel 1 datasets**. Trained the models based on local annotated satellite images.
+
+The following models were used, where R-CFN had the most effective results:
+* **Faster R-CNN**
+* **SSD or Singe Shot Detector**
+* **R-CFN or Region-based Convolution Fusion Network**
+
+## Results
+
+The efficacy of the models tested:
