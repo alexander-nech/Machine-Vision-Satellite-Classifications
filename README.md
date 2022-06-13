@@ -29,5 +29,5 @@ R-CFN image classifications of vessels examples:
 
 
 <img width="470" alt="Screen Shot 2022-06-13 at 12 03 31 PM" src="https://user-images.githubusercontent.com/34041631/173396230-d9baec2c-1996-4d4d-bee5-8c933837e693.png">
-<img width="487" alt="Screen Shot 2022-06-13 at 12 03 40 PM" src="https://user-images.githubusercontent.com/34041631/173396234-27314e8f-b6be-431c-9542-c445d51ae356.png">
+<img width="478" alt="Screen Shot 2022-06-13 at 12 06 44 PM" src="https://user-images.githubusercontent.com/34041631/173396795-4b65e215-4676-4167-ba3c-e422a7b4d51a.png">
 <img width="467" alt="Screen Shot 2022-06-13 at 12 03 48 PM" src="https://user-images.githubusercontent.com/34041631/173396236-7c31d446-4984-4f78-85ce-82f71194f2e7.png">
